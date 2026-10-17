@@ -1,0 +1,13 @@
+{
+  "name": "nemoweby",
+  "version": "1.1.0",
+  "description": "Správa vlastních nemovitostí, poptávek a schvalovaných změn v NEMOwebech.",
+  "license": "MIT",
+  "author": {
+    "name": "Hrncirovi Studio",
+    "email": "info@hrncirovistudio.cz",
+    "url": "https://www.nemoweby.cz"
+  },
+  "homepage": "https://www.nemoweby.cz",
+  "keywords": ["real-estate", "nemovitosti", "crm", "visualizations"]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nemoweby": {
+      "type": "http",
+      "url": "https://www.nemoweby.cz/api/mcp"
+    }
+  }
+}
