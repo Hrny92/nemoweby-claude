@@ -9,5 +9,6 @@
     "url": "https://www.nemoweby.cz"
   },
   "homepage": "https://www.nemoweby.cz",
+  "privacyPolicyUrl": "https://www.nemoweby.cz/gdpr",
   "keywords": ["real-estate", "nemovitosti", "crm", "visualizations"]
 }
